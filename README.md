@@ -1,2 +1,2 @@
 # layout
-Basic HTML and CSS page
+Basic HTML and CSS layout

@@ -1,2 +1,2 @@
 # layout
-Basic HTML and CSS layout practicing grid
+Basic HTML and CSS layout practicing grid mode
